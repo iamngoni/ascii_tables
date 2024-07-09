@@ -1,8 +1,11 @@
 name:  ascii_tables
 version: 1.0.2
-description: Creates ascii based tables from collections.
-author: Juan Simon <juan.simon@gmail.com>
-homepage: https://github.com/lord-otori/ascii_tables
+description: Creates ascii based tables from collections (from Juan Simon)
+author: Ngonidzashe Mangudya <imngonii@gmail.com>
+homepage: https://github.com/iamngoni/ascii_tables
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
-  unittest: 0.8.5
+  test: ^1.25.8
